@@ -1,0 +1,15 @@
+{
+  "name": "mtahabinrashid",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Portfolio of Muhammad Taha Bin Rashid, Full Stack Developer",
+  "scripts": {
+    "dev": "npx serve . -l 3000",
+    "build": "esbuild src/gl.js --bundle --minify --format=esm --target=es2020 --outfile=js/gl.js"
+  },
+  "repository": { "type": "git", "url": "git+https://github.com/mtaharashid23/mtahabinrashid.git" },
+  "author": "Muhammad Taha Bin Rashid",
+  "license": "MIT",
+  "dependencies": { "three": "^0.186.0" },
+  "devDependencies": { "esbuild": "^0.24.2" }
+}

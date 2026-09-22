@@ -1,8 +1,8 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
+  "buildCommand": "",
   "outputDirectory": ".",
-  "buildCommand": "npm run build",
   "headers": [
     {
       "source": "/(.*)",

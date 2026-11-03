@@ -1,23 +1,27 @@
 {
   "name": "mtahabinrashid",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "private": true,
-  "description": "Portfolio of Muhammad Taha Bin Rashid, Full Stack Developer",
+  "description": "Portfolio of Muhammad Taha Bin Rashid, Full Stack Developer, Karachi",
+  "type": "module",
   "scripts": {
     "dev": "npx serve . -l 3000",
-    "build:gl": "esbuild src/gl.js --bundle --minify --format=esm --target=es2020 --outfile=js/gl.js"
+    "build": "node build.mjs",
+    "watch": "node build.mjs --watch",
+    "verify": "node tools/verify.cjs"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mtaharashid23/mtaharashid.git"
+    "url": "git+https://github.com/mtaharashid23/mtahabinrashid.git"
   },
   "author": "Muhammad Taha Bin Rashid",
   "license": "MIT",
   "dependencies": {
-    "@vercel/analytics": "^2.0.1",
-    "three": "^0.186.0"
+    "gsap": "^3.15.0",
+    "lenis": "^1.3.27",
+    "three": "^0.187.0"
   },
   "devDependencies": {
-    "esbuild": "^0.24.2"
+    "esbuild": "^0.28.2"
   }
 }

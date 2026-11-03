@@ -1,9 +1,3 @@
 node_modules/
-*.log
-.env
-.env.*
 .DS_Store
-Thumbs.db
-.vscode/
-.idea/
-.vercel
+tools/out/

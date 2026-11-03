@@ -1,0 +1,27 @@
+# Muhammad Taha Bin Rashid
+
+> Full Stack Developer in Karachi, Pakistan. Builds award-style websites and the systems behind them: React and Vue in front, Laravel and Node behind.
+
+- Site: https://mtahabinrashid.vercel.app/
+- Email: muhammadtahabinrashid@gmail.com
+- GitHub: https://github.com/mtaharashid23
+- LinkedIn: https://www.linkedin.com/in/muhammad-taha-bin-rashid-719a07259
+
+## Selected work (2026)
+- The Female Imperative: Author website (https://the-female-imperative.netlify.app/)
+- Eclipse Neilson: Author website (https://eclipseneilson.com/)
+- Andrew J. Minuto: Author website + journal (https://andrewjminuto.com/)
+- A Few Regrets: Memoir microsite (case on the site)
+- Principal Playbook: Program site + LMS and CMS prototype (https://theprincipalplaybook.com/)
+- Rehome With Heart: Author site + print-on-demand store (https://rehomewithheart.com/)
+- Kassandra Clymens-Russo: Author website (https://kassandra-clymens-russo.netlify.app/)
+- Steve McAlphabet: Artist website (https://stevemc.xyz/)
+- William Sargent: Author website (https://www.williamsargentvt.com/)
+- The Gold Coin: Children's book site (case on the site)
+- Gale Reardon, RN: Author + speaker site (https://www.galereardon.com/)
+- Sam Webster: Author + press catalogue (74 pages) (https://sam-webster.netlify.app/)
+- Ritchie Kemp: Novelist website (case on the site)
+- Healing Tears: Author website (https://stephaniehill.netlify.app/)
+
+## Stack
+Front: React, Vue, GSAP, Three.js, Tailwind CSS, Vite. Back: Laravel, Node.js, REST APIs, MySQL, PostgreSQL.

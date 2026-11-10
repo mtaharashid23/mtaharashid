@@ -1,3 +1,7 @@
+User-agent: Googlebot-Image
+Disallow: /img/work/
+
 User-agent: *
 Allow: /
+
 Sitemap: https://mtahabinrashid.vercel.app/sitemap.xml

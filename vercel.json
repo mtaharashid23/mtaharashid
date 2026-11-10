@@ -56,6 +56,15 @@
       ]
     },
     {
+      "source": "/img/work/(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, noimageindex"
+        }
+      ]
+    },
+    {
       "source": "/favicon.ico",
       "headers": [
         {
